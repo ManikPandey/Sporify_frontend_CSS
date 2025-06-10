@@ -17,8 +17,6 @@ This project is a **simple front page** for a music player web app, inspired by 
 
 ## 📸 Screenshots
 
-_Add screenshots here if available._
-
 ---
 
 ## 🚀 Getting Started
